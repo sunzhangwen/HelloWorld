@@ -1,3 +1,4 @@
+package com.sunzhangwen.test;
 // My test program bind to other playform
 public class Helloworld {
 
